@@ -1,0 +1,49 @@
+/* styling the container */
+.container{
+    background-color: black;
+    height: 62vh;
+    /* width: 90%; */
+}
+ /* .container-fluid{
+    width: 99%;
+ } */
+
+.header{
+    background-color: rgb(126, 41, 126);
+    color: white;
+    border: 2px solid black;
+
+}
+
+.sidebar{
+    background-color: aqua;
+    color: white;
+    border: 2px solid black;
+    padding: 80px;
+    border: 2px solid black;
+}
+
+.content-1{
+    background-color: rgb(27, 27, 212);
+    color: white;
+    border: 2px solid black;
+    padding: 40px;
+    border: 2px solid black
+
+}
+
+.content-2, .content-3{
+    background-color: rgb(25, 25, 227);
+    color: white;
+    border: 2px solid black;
+    padding: 40px;
+    border: 2px solid black
+}
+
+.footer{
+    background-color: rgb(126, 41, 126);
+    color: white;
+    border: 2px solid black;
+    border: 2px solid black
+}
+

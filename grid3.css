@@ -1,0 +1,10 @@
+.container{
+    height: 75vh;
+    background-color: rgb(17, 199, 93);
+    width: 100%;
+}
+
+.container-fluid{
+    width: 90%;
+}
+
