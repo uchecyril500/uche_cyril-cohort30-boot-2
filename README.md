@@ -1,2 +1,2 @@
 # uche_cyril-cohort30-boot-2
-# I added 2 CARDS FILE WHICH I CREADTES WITH THE BOOTSTRAP CLASS TOGETHER WITH THE IMAGES
+# I added 2 cards file which i created with the bootstrap class together with the images.
